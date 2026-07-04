@@ -85,7 +85,6 @@ The objective of this project is to analyze customer retention and churn behavio
 - `Dashboard.png`
 - `README.md`
 
-> **Note:** The original dataset is not included in this repository due to GitHub file size limitations.
 
 ---
 
